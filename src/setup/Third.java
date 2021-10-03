@@ -11,4 +11,7 @@ public class Third {
     public void hello(int a){
         System.out.println("Hello again");
     }
+    public void hello(double str){
+        System.out.println("Hello Hello");
+    }
 }
