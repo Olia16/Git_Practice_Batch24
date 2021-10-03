@@ -5,11 +5,5 @@ public class First {
 
         System.out.println("Hello world");
 
-        // this is a new line
-        //updating first file
-
-        //third commit
-        //more lines
-
     }
 }
